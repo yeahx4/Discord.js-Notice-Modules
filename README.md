@@ -1,4 +1,5 @@
 # Discord.js-Notice-Modules
+This module is designed to facilitate the use of the discord bot notice command.
 
 ## Authors
 khjkr <hyunjun5216@naver.com>
