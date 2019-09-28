@@ -1,0 +1,26 @@
+{
+  "name": "discord.js-notice-modules",
+  "version": "1.0.0",
+  "description": "This module is designed to facilitate the use of the discord bot notice command.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khjkr/Discord.js-Notice-Modules.git"
+  },
+  "author": "khjkr",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/khjkr/Discord.js-Notice-Modules/issues"
+  },
+  "homepage": "https://github.com/khjkr/Discord.js-Notice-Modules#readme"
+}
