@@ -1,0 +1,6 @@
+{
+    "token": "YOUR_BOT_TOKEN",
+    "prefix": "BOT_PREFIX",
+    "title": "NOTICE_TITLE",
+    "footer": "FOOTER_TEXT"
+}
