@@ -2,5 +2,7 @@
     "token": "YOUR_BOT_TOKEN",
     "prefix": "BOT_PREFIX",
     "title": "NOTICE_TITLE",
-    "footer": "FOOTER_TEXT"
+    "color": "EMBED_COLOR (ex #2ECCFA)",
+    "owner": "BOT_OWNER_ID",
+    "channel": ["CHANNEL_NAME1","CHANNEL_NAME2","..."]
 }
